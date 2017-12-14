@@ -16,10 +16,30 @@ def _emit(elements, separator='\t'):
     print(output_string)
 
 
+def calculations(rating_sum, rating_count, key=4):
+    if key == 1:
+        return rating_count
+    elif key == 2:
+        return rating_sum
+    elif key == 3:
+        return rating_sum / rating_count
+    elif key == 4:
+        avg = rating_sum / rating_count
+        if avg > 4:
+            return 'Wonderful Movie', str(avg)
+        elif avg > 2.5:
+            return 'Good Movie', str(avg)
+        elif avg > 1:
+            return 'Boring Movie', str(avg)
+        else:
+            return 'Bad Movie', str(avg)
+
+
 def reducer():
 
     last_movie = None
     rating_count = 0
+    rating_sum = 0
 
     for line in sys.stdin:
         movie, rating = _format_and_split(line)
@@ -28,13 +48,18 @@ def reducer():
             rating_count = 1
 
         if movie == last_movie:
-                rating_count = rating_count + 1
+            rating_sum = rating_sum + float(rating)
+            rating_count = rating_count + 1
         else:
-            _emit([last_movie, rating_count])
+            calc = calculations(rating_sum, rating_count)
+            _emit([last_movie, calc])
+            rating_sum = 0
             last_movie = movie
+            rating_sum = rating_sum + float(rating)
             rating_count = 1
 
-    _emit([movie, rating_count])
+    calc = calculations(rating_sum, rating_count)
+    _emit([movie, calc])
 
 
 if __name__ == '__main__':
