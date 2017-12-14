@@ -18,9 +18,9 @@ def _emit(elements, separator='\t'):
 
 def mapper():
     for line in sys.stdin:
-        movie_id, country = _format_and_split(line)
+        movie_title, ratings = _format_and_split(line)
 
-        _emit([movie_id, country])
+        _emit([movie_title, ratings])
 
 
 if __name__ == '__main__':
