@@ -18,29 +18,23 @@ def _emit(elements, separator='\t'):
 
 def reducer():
 
-    last_movie_id = None
-    current_country = ""
-    country_count = 0
+    last_movie = None
+    rating_count = 0
 
     for line in sys.stdin:
-        line = line.strip()
-        movie_id, country = line.split("\t")
-        if not last_movie_id:
-            last_movie_id = movie_id
-            current_country = country
-            country_count = 1
+        movie, rating = _format_and_split(line)
+        if not last_movie:
+            last_movie = movie
+            rating_count = 1
 
-        if movie_id == last_movie_id:
-            if country != current_country:
-                country_count = country_count + 1
-                current_country = country
+        if movie == last_movie:
+                rating_count = rating_count + 1
         else:
-            _emit([last_movie_id, country_count])
-            last_movie_id = movie_id
-            current_country = country
-            country_count = 1
+            _emit([last_movie, rating_count])
+            last_movie = movie
+            rating_count = 1
 
-    _emit([movie_id, country_count])
+    _emit([movie, rating_count])
 
 
 if __name__ == '__main__':
