@@ -4,7 +4,7 @@ import sys
 
 def _format_and_split(line, separator=','):
     # remove leading and trailing whitespace and split on separator
-    return line.strip().split(separator)
+    return _skip_quoted(line.strip().split(separator))
 
 
 def _emit(elements, separator='\t'):
@@ -14,6 +14,17 @@ def _emit(elements, separator='\t'):
     # concatenation all list items by separator to one string
     output_string = separator.join(elements_as_string)
     print(output_string)
+
+
+def _skip_quoted(line):
+
+    if line[1][0] == '"':
+        i = 1
+        while line[i][-1] != '"':
+            line[i] += ',' + line[i+1]
+            line.remove(line[i+1])
+
+    return line
 
 
 def mapper():
