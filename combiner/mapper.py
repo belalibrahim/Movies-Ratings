@@ -44,7 +44,7 @@ def mapper():
             user_id = splits[0]
             ratings = splits[2]
 
-        _emit([movie_id, movie_title, ratings])
+        _emit([movie_id, ratings, movie_title])
 
 
 if __name__ == '__main__':
