@@ -1,0 +1,300 @@
+1	166	46	12:01 PM
+2	22	35	Fear Strikes Out
+3	21	82	Brushfires
+4	29	52	Battle of Britain
+5	218	39	The Beast of the City
+6	135	42	Life is to Whistle (Vida es silbar, La)
+7	98	23	Shine of Rainbows, A
+8	161	86	Brest Fortress (Brestskaya krepost)
+9	56	35	Fear Strikes Out
+10	105	83	39 Steps, The
+11	10	42	Life is to Whistle (Vida es silbar, La)
+12	219	70	Beck - Rum 302
+13	34	79	Zarafa
+14	167	53	Attack of the Crab Monsters
+15	63	96	A Grain of Truth
+16	110	12	Addiction, The
+17	159	23	Shine of Rainbows, A
+18	295	12	Addiction, The
+19	246	90	Black Windmill, The
+20	30	56	Orphanage, The (Orfanato, El)
+21	23	25	Touching the Void
+22	137	82	Brushfires
+23	198	78	24 City (Er shi si cheng ji)
+24	46	82	Brushfires
+25	232	6	Captains of the Clouds
+26	3	89	Land of the Dead
+27	247	42	Life is to Whistle (Vida es silbar, La)
+28	240	59	Next Best Thing, The
+29	276	97	Yu-Gi-Oh!
+30	106	51	Good Ol' Freda
+31	125	44	Prozac Nation
+32	165	99	Von Ryan's Express
+33	54	99	Von Ryan's Express
+34	239	62	At Any Price
+35	138	94	Suing the Devil
+36	139	83	40 Steps, The
+37	156	11	Zozo
+38	11	73	Out to Sea
+39	275	36	One A.M.
+40	238	84	Rails & Ties
+41	180	93	Proof
+42	285	98	Blue Car
+43	60	8	Teen Spirit
+44	36	80	Enough
+45	71	43	Time of Peace (Tempos de Paz)
+46	284	86	Brest Fortress (Brestskaya krepost)
+47	109	8	Teen Spirit
+48	91	98	Blue Car
+49	65	52	Battle of Britain
+50	82	52	Battle of Britain
+51	67	14	EDtv
+52	66	99	Von Ryan's Express
+53	83	3	Red Firecracker, Green Firecracker (Pao Da Shuang Deng)
+54	33	69	Appointment in Tokyo
+55	194	8	Teen Spirit
+56	18	24	Antwone Fisher
+57	233	59	Next Best Thing, The
+58	280	64	Water for Elephants
+59	100	13	Amityville II: The Possession
+60	95	51	Good Ol' Freda
+61	202	41	When a Stranger Calls
+62	16	14	EDtv
+63	107	9	Talaash
+64	265	50	I Spy
+65	73	59	Next Best Thing, The
+66	249	91	Dick Tracy vs. Cueball
+67	257	83	41 Steps, The
+68	298	77	Music Box, The
+69	157	49	Whisper of Sin (Nuodemes uzkalbejimas)
+70	234	68	Dante's Inferno
+71	17	23	Shine of Rainbows, A
+72	84	30	Quiet Earth, The
+73	229	100	Twilight Samurai, The (Tasogare Seibei)
+74	272	77	Music Box, The
+75	296	37	Little Murders
+76	113	10	Zozo
+77	101	51	Good Ol' Freda
+78	227	7	Man Who Fell to Earth, The
+79	108	23	Shine of Rainbows, A
+80	264	62	At Any Price
+81	237	76	Discreet Charm of the Bourgeoisie, The (Charme discret de la bourgeoisie, Le)
+82	289	97	Yu-Gi-Oh!
+83	116	78	25 City (Er shi si cheng ji)
+84	6	45	Cannibal Holocaust
+85	282	50	I Spy
+86	47	71	Turkish Dance, Ella Lola
+87	193	7	Man Who Fell to Earth, The
+88	175	86	Brest Fortress (Brestskaya krepost)
+89	147	15	Personal Property
+90	277	56	Orphanage, The (Orfanato, El)
+91	41	85	Maria Full of Grace (Maria, Llena eres de gracia)
+92	61	11	Zozo
+93	290	26	Deadfall
+94	250	13	Amityville II: The Possession
+95	172	19	Escape Artist, The
+96	49	78	26 City (Er shi si cheng ji)
+97	26	92	Gospa
+98	79	87	Devil's Ground, The
+99	230	13	Amityville II: The Possession
+100	222	70	Beck - Rum 303
+101	251	89	Land of the Dead
+102	253	45	Cannibal Holocaust
+103	12	91	Dick Tracy vs. Cueball
+104	226	66	Hypocrites
+105	288	94	Suing the Devil
+106	80	27	Working Girl
+107	129	83	42 Steps, The
+108	64	45	Cannibal Holocaust
+109	191	90	Black Windmill, The
+110	133	83	43 Steps, The
+111	283	1	Suspect X (Yôgisha X no kenshin)
+112	51	25	Touching the Void
+113	99	84	Rails & Ties
+114	142	14	EDtv
+115	266	21	Flight That Fought Back, The
+116	294	8	Teen Spirit
+117	220	86	Brest Fortress (Brestskaya krepost)
+118	278	56	Orphanage, The (Orfanato, El)
+119	118	64	Water for Elephants
+120	224	94	Suing the Devil
+121	90	60	Dorian Gray
+122	217	74	Leave It to Beaver
+123	190	81	Life After Beth
+124	123	62	At Any Price
+125	176	94	Suing the Devil
+126	53	63	Dragon Tiger Gate (Lung fu moon)
+127	293	90	Black Windmill, The
+128	136	66	Hypocrites
+129	20	67	New One-Armed Swordsman, The (Xin du bi dao)
+130	268	91	Dick Tracy vs. Cueball
+131	132	2	Sunrise at Campobello
+132	174	37	Little Murders
+133	13	75	Singles
+134	223	3	Red Firecracker, Green Firecracker (Pao Da Shuang Deng)
+135	1	14	EDtv
+136	115	14	EDtv
+137	243	17	Silent Night, Deadly Night Part 2
+138	210	13	Amityville II: The Possession
+139	242	9	Talaash
+140	201	25	Touching the Void
+141	75	95	White Darkness, The
+142	2	52	Battle of Britain
+143	40	55	Passion of Mind
+144	291	41	When a Stranger Calls
+145	208	55	Passion of Mind
+146	77	58	Warning Shadows (Schatten - Eine nächtliche Halluzination)
+147	287	86	Brest Fortress (Brestskaya krepost)
+148	270	100	Twilight Samurai, The (Tasogare Seibei)
+149	45	88	Stand by for Action
+150	297	31	HealtH
+151	31	94	Suing the Devil
+152	185	5	Crossing Delancey
+153	211	19	Escape Artist, The
+154	50	96	A Grain of Truth
+155	256	68	Dante's Inferno
+156	120	3	Red Firecracker, Green Firecracker (Pao Da Shuang Deng)
+157	189	75	Singles
+158	164	90	Black Windmill, The
+159	281	81	Life After Beth
+160	114	81	Life After Beth
+161	274	90	Black Windmill, The
+162	70	40	Across the Pacific
+163	62	69	Appointment in Tokyo
+164	173	21	Flight That Fought Back, The
+165	261	96	A Grain of Truth
+166	162	14	EDtv
+167	121	21	Flight That Fought Back, The
+168	200	39	The Beast of the City
+169	244	4	Summer Palace (Yihe yuan)
+170	85	51	Good Ol' Freda
+171	286	17	Silent Night, Deadly Night Part 3
+172	145	58	Warning Shadows (Schatten - Eine nächtliche Halluzination)
+173	235	21	Flight That Fought Back, The
+174	9	58	Warning Shadows (Schatten - Eine nächtliche Halluzination)
+175	299	45	Cannibal Holocaust
+176	19	18	Surrogates
+177	87	68	Dante's Inferno
+178	43	63	Dragon Tiger Gate (Lung fu moon)
+179	260	65	Teenagers from Outer Space
+180	153	23	Shine of Rainbows, A
+181	197	66	Hypocrites
+182	81	34	It All Starts Today (Ça commence aujourd'hui)
+183	7	87	Devil's Ground, The
+184	203	48	Hunting Party, The
+185	259	81	Life After Beth
+186	192	99	Von Ryan's Express
+187	117	65	Teenagers from Outer Space
+188	38	24	Antwone Fisher
+189	143	33	3 Godfathers
+190	207	31	HealtH
+191	195	35	Fear Strikes Out
+192	206	62	At Any Price
+193	214	14	EDtv
+194	111	93	Proof
+195	205	59	Next Best Thing, The
+196	154	34	It All Starts Today (Ça commence aujourd'hui)
+197	86	52	Battle of Britain
+198	279	2	Sunrise at Campobello
+199	32	57	Trancers II
+200	271	8	Teen Spirit
+201	267	38	Ugly Truth, The
+202	141	45	Cannibal Holocaust
+203	262	20	According to Greta
+204	151	13	Amityville II: The Possession
+205	39	43	Time of Peace (Tempos de Paz)
+206	42	91	Dick Tracy vs. Cueball
+207	241	49	Whisper of Sin (Nuodemes uzkalbejimas)
+208	150	56	Orphanage, The (Orfanato, El)
+209	69	82	Brushfires
+210	14	42	Life is to Whistle (Vida es silbar, La)
+211	27	8	Teen Spirit
+212	144	95	White Darkness, The
+213	127	17	Silent Night, Deadly Night Part 4
+214	184	3	Red Firecracker, Green Firecracker (Pao Da Shuang Deng)
+215	155	90	Black Windmill, The
+216	97	83	44 Steps, The
+217	221	3	Red Firecracker, Green Firecracker (Pao Da Shuang Deng)
+218	188	65	Teenagers from Outer Space
+219	225	63	Dragon Tiger Gate (Lung fu moon)
+220	119	85	Maria Full of Grace (Maria, Llena eres de gracia)
+221	263	51	Good Ol' Freda
+222	254	89	Land of the Dead
+223	93	17	Silent Night, Deadly Night Part 5
+224	216	95	White Darkness, The
+225	140	39	The Beast of the City
+226	170	20	According to Greta
+227	59	67	New One-Armed Swordsman, The (Xin du bi dao)
+228	104	64	Water for Elephants
+229	245	21	Flight That Fought Back, The
+230	103	80	Enough
+231	182	36	One A.M.
+232	58	22	Human Condition III, The (Ningen no joken III)
+233	158	85	Maria Full of Grace (Maria, Llena eres de gracia)
+234	160	14	EDtv
+235	300	84	Rails & Ties
+236	258	1	Suspect X (Yôgisha X no kenshin)
+237	134	11	Zozo
+238	68	21	Flight That Fought Back, The
+239	37	13	Amityville II: The Possession
+240	74	62	At Any Price
+241	236	57	Trancers II
+242	89	58	Warning Shadows (Schatten - Eine nächtliche Halluzination)
+243	25	39	The Beast of the City
+244	209	89	Land of the Dead
+245	72	55	Passion of Mind
+246	48	69	Appointment in Tokyo
+247	215	44	Prozac Nation
+248	169	5	Crossing Delancey
+249	171	44	Prozac Nation
+250	178	38	Ugly Truth, The
+251	55	82	Brushfires
+252	92	40	Across the Pacific
+253	228	27	Working Girl
+254	4	20	According to Greta
+255	112	80	Enough
+256	231	99	Von Ryan's Express
+257	179	85	Maria Full of Grace (Maria, Llena eres de gracia)
+258	273	78	27 City (Er shi si cheng ji)
+259	35	7	Man Who Fell to Earth, The
+260	252	27	Working Girl
+261	148	97	Yu-Gi-Oh!
+262	149	72	The Challenge
+263	44	76	Discreet Charm of the Bourgeoisie, The (Charme discret de la bourgeoisie, Le)
+264	76	51	Good Ol' Freda
+265	131	47	Radio On
+266	15	75	Singles
+267	213	77	Music Box, The
+268	24	88	Stand by for Action
+269	269	50	I Spy
+270	96	54	Other Shore, The
+271	126	59	Next Best Thing, The
+272	168	27	Working Girl
+273	52	60	Dorian Gray
+274	146	7	Man Who Fell to Earth, The
+275	255	13	Amityville II: The Possession
+276	199	32	Krippendorf's Tribe
+277	5	21	Flight That Fought Back, The
+278	152	23	Shine of Rainbows, A
+279	78	5	Crossing Delancey
+280	122	31	HealtH
+281	163	21	Flight That Fought Back, The
+282	212	74	Leave It to Beaver
+283	196	84	Rails & Ties
+284	28	51	Good Ol' Freda
+285	94	50	I Spy
+286	57	48	Hunting Party, The
+287	292	18	Surrogates
+288	8	12	Addiction, The
+289	248	78	28 City (Er shi si cheng ji)
+290	102	20	According to Greta
+291	183	29	Sleuth
+292	187	54	Other Shore, The
+293	130	1	Suspect X (Yôgisha X no kenshin)
+294	88	82	Brushfires
+295	204	85	Maria Full of Grace (Maria, Llena eres de gracia)
+296	124	94	Suing the Devil
+297	186	14	EDtv
+298	128	7	Man Who Fell to Earth, The
+299	181	88	Stand by for Action
+300	177	15	Personal Property
