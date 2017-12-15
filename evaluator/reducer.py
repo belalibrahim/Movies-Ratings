@@ -45,7 +45,6 @@ def reducer():
         movie, rating = _format_and_split(line)
         if not last_movie:
             last_movie = movie
-            rating_count = 1
 
         if movie == last_movie:
             rating_sum = rating_sum + float(rating)
